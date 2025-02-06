@@ -19,3 +19,4 @@ to list all tags ==> git tag
 
 to delete tag remotely ==> git push origin  --delete v1.7
 to delete tag locally ===> git tag -d v1.7  
+ <img src='img.webp'>
