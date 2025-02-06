@@ -11,4 +11,11 @@ checkout another branch without commit
 changes 
     git stash
     git checkout test 
+
+
+//lab2
     
+to list all tags ==> git tag
+
+to delete tag remotely ==> git push origin  --delete v1.7
+to delete tag locally ===> git tag -d v1.7  
